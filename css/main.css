@@ -126,3 +126,51 @@ h3{
 #portfolio .works img:nth-child(2){
 	margin-left: 35px;
 }
+#about .left-item{
+	width: 280px;
+	display: inline-block;
+	text-align: right;
+}
+#about h3{
+	margin: 0 0 14px 0;
+}
+#about h3 span{
+	text-transform: uppercase;
+}
+#about p{
+	font-size: 14px;
+	color: #777;
+	line-height: 1.5em;
+}
+#about .right-item{
+	width: 280px;
+	display: inline-block;
+	text-align: left;
+	float: right;
+}
+#about .left-item{
+	width: 280px;
+	display: inline-block;
+	text-align: right;
+	float: left;
+}
+.left-img{
+	margin-left: 90px;
+}
+.right-img{
+	margin-right: 105px;
+}
+.item2, .item4{
+	float: right;
+	margin-top: 75px;
+}
+.item3{
+	float: left;
+	margin-top: 75px;
+}
+footer p{
+	text-align: center;
+	font-size: 14px;
+	color: #555;
+	margin: 110px 0;
+}
